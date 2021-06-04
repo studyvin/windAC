@@ -1,0 +1,4 @@
+\.git$
+^reference\$
+^.*\.Rproj$
+^\.Rproj\.user$
