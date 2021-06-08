@@ -1,5 +1,4 @@
 \.git$
-dataRaw/
-buildCode/
+^reference\$
 ^.*\.Rproj$
 ^\.Rproj\.user$
